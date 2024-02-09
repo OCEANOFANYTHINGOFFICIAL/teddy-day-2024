@@ -7,7 +7,7 @@ setTimeout(function() {
 
 const myPopup = new Popup({
     id: "popup-1",
-    widthMultiplier: 2,
+    widthMultiplier: 1,
     title: "Secret Message !!!",
     content: `Click On The Teddy's belly After Reading The Letter To Get A Surprise 🥀`,
     backgroundColor: "hotpink",

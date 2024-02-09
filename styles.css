@@ -20,11 +20,13 @@ h1 {
     color: hotpink;
     font-family:cursive;
     font-style: oblique;
+    /* text border */
+    -webkit-text-stroke: 0.3px #fff;
 }
 
 .emotional-paragraph {
     color: #fff;
-    font-size: 16px;
+    font-size: 26px;
     line-height: 1.6;
     margin-bottom: 30px;
     font-family:cursive;
@@ -239,7 +241,7 @@ h1 {
 
 .made-by {
     margin-top: 30px;
-    color: #2e1602;
+    color: #ffffff;
     font-size: 14px;
     font-style: italic;
 }
