@@ -17,13 +17,13 @@ body {
 }
 
 h1 {
-    color: #2e1602;
+    color: hotpink;
     font-family:cursive;
     font-style: oblique;
 }
 
 .emotional-paragraph {
-    color: white;
+    color: #fff;
     font-size: 16px;
     line-height: 1.6;
     margin-bottom: 30px;
